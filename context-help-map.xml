@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="Untitled" path="Topics/1.%20Strona%20tytułowa.html"/>
+   <appContext helpID="Untitled"
+               path="Topics/2.%20Oferta%20studiów%20podyplomowych.html"/>
+   <appContext helpID="Untitled1" path="Topics/3.%20Rekrutacja.html"/>
+   <appContext helpID="Untitled" path="Topics/4.%20Opłaty.html"/>
+   <appContext helpID="Formy_nauki" path="Topics/5.%20Nauka%20online.html"/>
+   <appContext helpID="_6._wiadectwo_uko_czenia_studi_w_podyplomowych"
+               path="Topics/6.%20Świadectwo.html"/>
+   <appContext helpID="Wzory_potrzebnych_dokument_w"
+               path="Topics/7.%20Wzory%20dokumentów.html"/>
+   <appContext helpID="_7.Regulaminy_i_akty_prawne"
+               path="Topics/8.%20Regulaminy%20i%20akty%20prawne.html"/>
+   <appContext helpID="_8.Kontakt" path="Topics/9.%20Kontakt.html"/>
+   <appContext helpID="_10.Rekomendacje" path="Topics/10.%20Rekomendacje.html"/>
+</map>
