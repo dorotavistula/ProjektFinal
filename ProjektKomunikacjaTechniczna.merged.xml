@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/dcakar/AppData/Local/Programs/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/dcakar/AppData/Local/Programs/Oxygen XML Editor 23/frameworks/dita/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/dcakar/AppData/Local/Programs/Oxygen XML Editor 23/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/dcakar/AppData/Local/Programs/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/ashes-with-colors.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/dcakar/AppData/Local/Programs/Oxygen%20XML%20Editor%2023/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/ashes/notes.css'?>
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:css2fo="http://www.oxygenxml.com/css2fo" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/GIT/ProjektKomunikacjatechniczna/ProjektKomunikacjaTechniczna.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><topicmeta xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- map/topicmeta ">
+        <author class="- topic/author ">DOROTA CAKAR</author>
+        <copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright>
+        <critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates>
+    </topicmeta><oxy:front-page-title class="- front-page/front-page-title "><title class="- topic/title ">Instrukcja dla kandydatów studiów podyplomowych Akademii Finansów i Biznesu Vistula - jak się zapisać, opłacić, skonfigurować narzędzia, korzystać z aplikacji Teams, uzyskać świadectwo</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Instrukcja dla kandydatów studiów podyplomowych Akademii Finansów i Biznesu Vistula - jak się zapisać, opłacić, skonfigurować narzędzia, korzystać z aplikacji Teams, uzyskać świadectwo</title>
+    
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Projekt Komunikacja Techniczna</navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Oferta studiów podyplomowych</navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="Untitled1"><resourceid appid="Untitled1" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">Rekrutacja na studia podyplomowe </navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_4" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="Untitled"><resourceid appid="Untitled" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Opłaty</navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_5" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="Formy_nauki"><resourceid appid="Formy_nauki" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">Nauka online</navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_6" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="_6._wiadectwo_uko_czenia_studi_w_podyplomowych"><resourceid appid="_6._wiadectwo_uko_czenia_studi_w_podyplomowych" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">Świadectwo</navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_7" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="Wzory_potrzebnych_dokument_w"><resourceid appid="Wzory_potrzebnych_dokument_w" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_7" class="- topic/navtitle ">Wzory dokumentów</navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_8" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="_7.Regulaminy_i_akty_prawne"><resourceid appid="_7.Regulaminy_i_akty_prawne" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_8" class="- topic/navtitle ">Regulaminy i akty prawne </navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_9" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="_8.Kontakt"><resourceid appid="_8.Kontakt" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_9" class="- topic/navtitle ">Kontakt do Działu Studiów Podyplomowych AFiB Vistula</navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_10" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="_10.Rekomendacje"><resourceid appid="_10.Rekomendacje" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_10" class="- topic/navtitle ">Rekomendacje</navtitle><?ditaot gentext?><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates></topicmeta></topicref>
+</opentopic:map><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Projekt Komunikacja Techniczna</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p ">Informacja dla kandydatów na studia podyplomowe w Akademii Finansów i Biznesu Vistula</p>
+        <ul class="- topic/ul " id="unique_1_Connect_42_ul_pck_m4l_rpb" nd:nd-id="ul_pck_m4l_rpb">
+            <li class="- topic/li ">zapis na studia</li>
+            <li class="- topic/li ">nauka online</li>
+            <li class="- topic/li ">uzyskanie świadectwa</li>
+            <li class="- topic/li ">dokumenty i kontakt</li>
+        </ul>
+        <p class="- topic/p "/>
+        <p class="- topic/p ">Autor: Dorota Cakar</p>
+        <image class="- topic/image " href="file:/C:/GIT/ProjektKomunikacjatechniczna/Images/VistulaUniversity-logo.jpg" id="unique_1_Connect_42_image_b3m_lfb_npb" nd:nd-id="image_b3m_lfb_npb" placement="inline"/>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Oferta studiów podyplomowych</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_2_Connect_42_ol_gsz_lc2_mpb" nd:nd-id="ol_gsz_lc2_mpb">
+                <li class="- topic/li ">Wejdź na stronę <xref class="- topic/xref " format="html" href="http://www.vistula.edu.pl" scope="external"><?ditaot usertext?>www.vistula.edu.pl</xref>
+                    <image class="- topic/image " href="file:/C:/GIT/ProjektKomunikacjatechniczna/Images/stona%20główna%20vistula1.png" id="unique_2_Connect_42_image_tkc_xn2_mpb" nd:nd-id="image_tkc_xn2_mpb" placement="inline"/></li>
+                <li class="- topic/li ">W zakładce ‘Kierunki Studiów’, wybierz ‘Językowe kursy przygotowujące, Studia
+                    podyplomowe’ <xref class="- topic/xref " format="html" href="https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji" scope="external"><?ditaot usertext?>https://www.vistula.edu.pl/kierunki-studiow/kontynuacja-edukacji</xref>
+                    <image class="- topic/image " href="file:/C:/GIT/ProjektKomunikacjatechniczna/Images/studia%20podyplomowe2.png" id="unique_2_Connect_42_image_bpl_442_mpb" nd:nd-id="image_bpl_442_mpb" placement="inline"/></li>
+                <li class="- topic/li ">Kliknij na ikonę ‘Studia podyplomowe’ lub rozwiń plusem zakładkę ‘Studia
+                    podyplomowe’, znajdującą się po lewej stronie ekranu. <image class="- topic/image " href="file:/C:/GIT/ProjektKomunikacjatechniczna/Images/studia%20podyplomowe3.png" id="unique_2_Connect_42_image_zkm_y42_mpb" nd:nd-id="image_zkm_y42_mpb" placement="inline"/></li>
+                <li class="- topic/li ">W kolejnym kroku wybierz zakres/dział, do którego należą interesujące Cię studia
+                    podyplomowe. <ul class="- topic/ul " id="unique_2_Connect_42_ul_gv3_lc2_mpb" nd:nd-id="ul_gv3_lc2_mpb">
+                        <li class="- topic/li ">Finanse </li>
+                        <li class="- topic/li ">Filologia</li>
+                        <li class="- topic/li ">Informatyka</li>
+                        <li class="- topic/li ">Transport i logistyka</li>
+                        <li class="- topic/li ">Ubezpieczenia</li>
+                        <li class="- topic/li ">Zarządzanie</li>
+                    </ul></li>
+                <li class="- topic/li ">Następnie wybierz kierunek studiów z danego zakresu/działu.<p class="- topic/p "><image class="- topic/image " href="file:/C:/GIT/ProjektKomunikacjatechniczna/Images/studia%20działy4.png" id="unique_2_Connect_42_image_nlz_djb_npb" nd:nd-id="image_nlz_djb_npb" placement="inline"/></p></li>
+                <li class="- topic/li ">Zapoznaj się z poszczególnymi zakładkami opisu danego kierunku studiów podyplomowych.<p class="- topic/p ">
+                        <ul class="- topic/ul " id="unique_2_Connect_42_ul_cfz_4jb_npb" nd:nd-id="ul_cfz_4jb_npb">
+                            <li class="- topic/li ">Opis studiów </li>
+                            <li class="- topic/li ">Program</li>
+                            <li class="- topic/li ">Kierownik studiów</li>
+                            <li class="- topic/li ">Kadra</li>
+                            <li class="- topic/li ">Nabór i opłaty</li>
+                        </ul>
+                    </p><p class="- topic/p "><image class="- topic/image " href="file:/C:/GIT/ProjektKomunikacjatechniczna/Images/zakładki6.png" id="unique_2_Connect_42_image_npj_wjb_npb" nd:nd-id="image_npj_wjb_npb" placement="inline"/></p></li>
+            </ol>
+        </p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Zwróć uwagę, że wszystkie studia podyplomowe odbywają się w co drugi weekend, w soboty
+                i niedziele, w terminie od października do czerwca lub w terminie od lutego/marca do
+                lutego kolejnego roku akademickiego, z uwzględnieniem przerwy wakacyjnej.</b></p>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="Untitled1" oid="Untitled1" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Rekrutacja na studia podyplomowe </ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">3 sposoby zgłoszenia na studia</b></p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Pierwszy sposób</b></p>
+        <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_3_Connect_42_ol_k5d_222_mpb" nd:nd-id="ol_k5d_222_mpb">
+                <li class="- topic/li ">Wejdź w zakładkę ‘Nabór i opłaty’ wybranego kierunku studiów podyplomowych</li>
+                <li class="- topic/li ">Z zakładki pobierz formularz zgłoszeniowy – zamieszczony w wersji Word <image class="- topic/image " href="file:/C:/GIT/ProjektKomunikacjatechniczna/Images/formularz%20sp7.png" id="unique_3_Connect_42_image_k1m_lr2_mpb" nd:nd-id="image_k1m_lr2_mpb" placement="inline"/></li>
+                <li class="- topic/li ">Formularz wydrukuj, wypełnij i podpisz. Skan lub wersję pdf wyślij na adres
+                    mailowy <xref class="- topic/xref " format="edu.pl.pl" href="mailto:studiapodyplomowe@vistula.edu.pl" scope="external"><?ditaot usertext?>studiapodyplomowe@vistula.edu.pl</xref></li>
+                <li class="- topic/li ">Załącz skan dyplomu (licencjat lub magister każdego kierunku) w pdf oraz zdjęcie
+                    w jpg lub doślij dokumenty w terminie późniejszym, jednak nie później niż podany
+                    termin rozpoczęcia zajęć danego kierunku.</li>
+                <li class="- topic/li ">Poczekaj na odpowiedź i potwierdzenie przyjęcia zgłoszenia od pracownika Działu
+                    Studiów Podyplomowych. Odpowiedź uzyskasz maksymalnie po dwóch dniach
+                    roboczych.</li>
+            </ol>
+        </p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Drugi sposób</b></p>
+        <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_3_Connect_42_ol_mjx_5kb_npb" nd:nd-id="ol_mjx_5kb_npb">
+                <li class="- topic/li ">Na stronie studiów podyplomowych, wybierz kierunek, który Cię interesuje</li>
+                <li class="- topic/li ">Niezależnie, od zakładki, na której się znajdziesz, w prawym rogu, widoczna
+                    będzie prostokątna ikona na czerwonym tle z napisem ‘APLIKUJ ONLINE’ <image class="- topic/image " href="file:/C:/GIT/ProjektKomunikacjatechniczna/Images/aplikuj%20online8.png" id="unique_3_Connect_42_image_hwq_5r2_mpb" nd:nd-id="image_hwq_5r2_mpb" placement="inline"/></li>
+                <li class="- topic/li ">Wejdź w ikonę (lewy przycisk myszki) i wypełnij skrócony kwestionariusz osobowy,
+                    podając jedynie swoje imię i nazwisko, adres mailowy, numer telefonu oraz formę
+                    kontaktu ze strony uczelni. Zapoznaj się z informacją RODO i wybierz WYŚLIJ
+                        <image class="- topic/image " href="file:/C:/GIT/ProjektKomunikacjatechniczna/Images/formularz9.png" id="unique_3_Connect_42_image_wzd_js2_mpb" nd:nd-id="image_wzd_js2_mpb" placement="inline"/></li>
+                <li class="- topic/li ">Na tej samej stronie uczelni, otrzymasz natychmiast komunikat z podziękowaniem i
+                    informacją o kontakcie ze strony uczelni.<image class="- topic/image " href="file:/C:/GIT/ProjektKomunikacjatechniczna/Images/zapis%20online10.png" id="unique_3_Connect_42_image_gfs_qs2_mpb" nd:nd-id="image_gfs_qs2_mpb" placement="inline"/></li>
+                <li class="- topic/li ">Poczekaj na odpowiedź i potwierdzenie przyjęcia zgłoszenia od pracownika Działu
+                    Studiów Podyplomowych. Odpowiedź uzyskasz maksymalnie po dwóch dniach
+                    roboczych.</li>
+            </ol>
+        </p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Trzeci sposób</b></p>
+        <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_3_Connect_42_ol_mn4_3lb_npb" nd:nd-id="ol_mn4_3lb_npb">
+                <li class="- topic/li ">Po wcześniejszym, mailowym lub telefonicznym kontakcie z Działem SP, możesz
+                    osobiście złożyć kwestionariusz zgłoszeniowy, xero dyplomu oraz zdjęcie. </li>
+                <li class="- topic/li ">Forma tradycyjna zapisu na studia, jest możliwa po uprzednim umówieniu się,
+                    szczególnie w czasie trwającej pandemii.</li>
+            </ol>
+        </p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Rekrutacja na studia podyplomowe w Akademii Finansów i Biznesu Vistula trwa cały rok
+                kalendarzowy, w każdej wybranej formie zapisu.</b></p>
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Zdjęcie, które kandydat przekłada wraz z pozostałymi dokumentami nie musi posiadać
+                szczególnego formatu, gdyż nie będzie wykorzystane w świadectwie.</b></p>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="Untitled" oid="Untitled" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Opłaty</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Termin i formy pobierania opłat za studia podyplomowe </b></p>
+        <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_4_Connect_42_ol_acl_sf2_mpb" nd:nd-id="ol_acl_sf2_mpb">
+                <li class="- topic/li ">Wejdź do zakładki ‘Nabór i opłaty’ wybranego kierunku studiów podyplomowych</li>
+                <li class="- topic/li ">Wybierz formę płatności – w jednej lub dwóch ratach</li>
+                <li class="- topic/li ">Na podany numer konta bankowego dokonaj przelewu, opisując go uważnie, zgodnie z
+                    podaną informacją tuż nad numerem konta <image class="- topic/image " href="file:/C:/GIT/ProjektKomunikacjatechniczna/Images/konto11.png" id="unique_4_Connect_42_image_p1k_bt2_mpb" nd:nd-id="image_p1k_bt2_mpb" placement="inline"/></li>
+                <li class="- topic/li ">Potwierdzenie przelewu w pdf prześlij na adres <xref class="- topic/xref " format="edu.pl.pl" href="mailto:studiapodyplomowe@vistula.edu.pl" scope="external"><?ditaot usertext?>studiapodyplomowe@vistula.edu.pl</xref>, nie wcześniej niż
+                    tydzień przed potwierdzonym przez pracownika Działu studiów podyplomowych,
+                    rozpoczęciem edycji wybranego kierunku studiów podyplomowych</li>
+                <li class="- topic/li ">Dodatkowo, wraz z potwierdzeniem przelewu możesz wysłać prośbę o wystawienie
+                    faktury oraz prośbę o wystawienie zaświadczenia o przyjęciu na studia
+                    podyplomowe, a także dokument np. z Urzędu Pracy do wypełnienia przez uczelnię,
+                    jeśli studia mają zostać sfinansowane (w części lub w całości) przez Urząd Pracy
+                    lub inną instytucję</li>
+            </ol>
+        </p>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="Formy_nauki" oid="Formy_nauki" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Nauka online</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Formy nauki na studiach podyplomowych w AFiB Vistula. Aplikacja TEAMS.</b></p>
+        <p class="- topic/p "><ol class="- topic/ol " id="unique_5_Connect_42_ol_ods_3g2_mpb" nd:nd-id="ol_ods_3g2_mpb">
+                <li class="- topic/li ">Studia podyplomowe w AFiB Vistula prowadzone są w formie stacjonarnej</li>
+                <li class="- topic/li ">W okresie pandemii wprowadzono formę zajęć online – wykłady ‘na żywo’ z
+                    możliwością nagrywania każdego spotkania. W tym przypadku zajęcia odbywają się
+                    również zgodnie z przesłanym drogą mailową przez Dział Studiów Podyplomowych,
+                    planem zajęć, tzn z reguły od godz. 9.00 do 16.00</li>
+                <li class="- topic/li ">Słuchacz, najpóźniej tydzień przed rozpoczęciem studiów, otrzymuje instrukcję do
+                    utworzenia adresu mailowego w domenie vistula:</li>
+            </ol>Dzień dobry,</p>
+        <p class="- topic/p ">Poniżej znajdują się dane niezbędne do wygenerowania dla Pana/Pani konta mailowego,
+            którym będzie można zalogować się do większości serwisów Internetowych dostępnych na
+            Vistuli. Konto będzie w pełni aktywne następnego dnia po stworzeniu.</p>
+        <p class="- topic/p ">Imię i nazwisko Słuchacza</p>
+        <p class="- topic/p ">Identyfikator: najczęściej numer Pesel</p>
+        <p class="- topic/p ">Hasło: złożone z 10 znaków</p>
+        <p class="- topic/p ">Używając powyższych danych na stronie <xref class="- topic/xref " format="html" href="https://generate.vistula.edu.pl/" scope="external"><?ditaot usertext?>https://generate.vistula.edu.pl/</xref> należy
+            wygenerować adres mailowy w domenie @stu.vistula.edu.pl</p>
+        <p class="- topic/p ">Przy logowaniu do serwisów Vistuli należy wybrać opcję „logowanie Office365” i zalogować
+            się używając vistulowego adresu mailowego (zdjęcie poniżej).</p>
+        <p class="- topic/p "> </p>
+        <image class="- topic/image " href="file:/C:/GIT/ProjektKomunikacjatechniczna/Images/zdjęcielogowanie%20słuchacz.jpg" id="unique_5_Connect_42_image_us4_2nb_npb" nd:nd-id="image_us4_2nb_npb" placement="inline"/>
+        <p class="- topic/p ">4. TEAMS jest aplikacją, z której korzysta uczelnia podczas nauki online, do której
+            najpóźniej 2 dni przed zajęciami słuchacz otrzymuje na maila zaproszenie do zajęć</p>
+        <p class="- topic/p ">TEAMS - instrukcja dla słuchacza</p>
+        <p class="- topic/p ">W celu zalogowania na vistulową skrzynkę pocztową, należy wejść na stronę: <xref class="- topic/xref " format="html" href="http://mail.vistula.edu.pl" scope="external"><?ditaot usertext?>http://mail.vistula.edu.pl</xref>, po czym następuje przekierowanie na pocztę
+            Office 365, gdzie można dokonać zmiany swojego hasła do skrzynki pocztowej.</p>
+        <bodydiv class="- topic/bodydiv ">
+            <section class="- topic/section " id="unique_5_Connect_42_section_wx5_4pv_npb" nd:nd-id="section_wx5_4pv_npb"><b class="+ topic/ph hi-d/b ">Informacje wstępne</b><p class="- topic/p ">Instrukcja obsługi
+                    programów Microsoft Teams zawiera informacje, jak dołączyć do spotkania w
+                    aplikacji Microsoft Teams.</p><p class="- topic/p ">Aby uczestniczyć w zajęciach należy posiadać
+                    komputer z głośnikami i mikrofonem, kamera Internetowa nie jest wymagana.
+                    </p><p class="- topic/p ">Wspierane przeglądarki Internetowe to: </p><ul class="- topic/ul " id="unique_5_Connect_42_ul_xx5_4pv_npb" nd:nd-id="ul_xx5_4pv_npb">
+                    <li class="- topic/li ">Internet Explorer 11,</li>
+                    <li class="- topic/li ">Microsoft Edge,</li>
+                    <li class="- topic/li ">najnowsza wersja przeglądarki Chrome,</li>
+                    <li class="- topic/li ">najnowsza wersja przeglądarki Firefox.</li>
+                </ul><p class="- topic/p ">Metadane wszystkich spotkań, które się odbywają są zapisywane na serwerze
+                    Microsoft Teams (ile trwało spotkanie, o której się rozpoczęło, ile osób w nim
+                    uczestniczyło i jaka była jakość połączenia).</p><p class="- topic/p ">Uczestnictwo w zajęciach
+                    online jest wymagane, tak jak w zajęciach na uczelni. Nie uczęszczanie na
+                    zajęcia online może skutkować niezaliczeniem danych zajęć.</p></section>
+            <section class="- topic/section " id="unique_5_Connect_42_section_yx5_4pv_npb" nd:nd-id="section_yx5_4pv_npb"><b class="+ topic/ph hi-d/b ">Uczestnictwo w zajęciach online w aplikacji
+                    Microsoft Teams.</b><p class="- topic/p ">Po wejściu na stronę ze spotkaniem w Microsoft Teams,
+                    można wybrać czy podłączyć się poprzez stronę internetową, czy poprzez aplikację
+                    Microsoft Teams. W każdym trybie podłączenia spotkanie będzie wyglądało bardzo
+                    podobnie.</p><p class="- topic/p "><image class="- topic/image " href="file:/C:/GIT/ProjektKomunikacjatechniczna/Images/teams.jpg" id="unique_5_Connect_42_image_t35_wsv_npb" nd:nd-id="image_t35_wsv_npb" placement="inline"/></p><p class="- topic/p ">Przy dołączaniu przez przeglądarkę Internetową, może się wyświetlić
+                    komunikat o udostępnieniu mikrofonu i kamery dla Microsoft Teams. Należy wybrać
+                    "Allow" czyli  „Zezwól”.</p><p class="- topic/p "><image class="- topic/image " href="file:/C:/GIT/ProjektKomunikacjatechniczna/Images/teams1.jpg" id="unique_5_Connect_42_image_acn_xsv_npb" nd:nd-id="image_acn_xsv_npb" placement="inline"/></p><p class="- topic/p ">Na następnym ekranie wpisz swoje imię,
+                    nazwisko i numer albumu. Następnie naciśnij przycisk „dołącz”.</p><p class="- topic/p "><i class="+ topic/ph hi-d/i ">UWAGA.
+                        Podanie nieprawdziwego imienia i nazwiska, bądź tylko jego skrót, może
+                        oznaczać  niewpuszczenie na spotkanie!</i></p><p class="- topic/p "><image class="- topic/image " href="file:/C:/GIT/ProjektKomunikacjatechniczna/Images/teams2.png" id="unique_5_Connect_42_image_jsc_ysv_npb" nd:nd-id="image_jsc_ysv_npb" placement="inline"/></p><p class="- topic/p ">Po dołączeniu do
+                    spotkania, należy poczekać, aż prowadzący zajęcia wpuści na to spotkanie. Po
+                    rozpoczęciu zajęć, zobaczycie obraz z kamery prowadzącego zajęcia. Aplikacja
+                    automatycznie będzie pokazywać tę osobę która mówi, bądź udostępnia swój
+                    pulpit.</p><p class="- topic/p ">W pasku nawigacyjnym na ekranie możecie włączać i wyłączać kamerę
+                    i mikrofon, udostępniać zawartość pulpitu (o ile prowadzący dał wam taką
+                    możliwość), pokazać okienko czatu, pokazać okno z uczestnikami
+                    spotkania.</p><p class="- topic/p "/><image class="- topic/image " href="file:/C:/GIT/ProjektKomunikacjatechniczna/Images/teams3.png" id="unique_5_Connect_42_image_a3r_ysv_npb" nd:nd-id="image_a3r_ysv_npb" placement="inline"/><p class="- topic/p "> </p><p class="- topic/p "><b class="+ topic/ph hi-d/b "> Pomoc</b></p><p class="- topic/p ">Pomoc informatyczną można uzyskać pisząc na
+                    adres <xref class="- topic/xref " format="edu.pl.pl" href="mailto:icthelp@vistula.edu.pl" scope="external"><?ditaot usertext?>icthelp@vistula.edu.pl</xref>.</p></section>
+        </bodydiv>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="_6._wiadectwo_uko_czenia_studi_w_podyplomowych" oid="_6._wiadectwo_uko_czenia_studi_w_podyplomowych" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Świadectwo</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p "/>
+        <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_6_Connect_42_ol_ogb_3yk_mpb" nd:nd-id="ol_ogb_3yk_mpb">
+                <li class="- topic/li ">Słuchacz studiów podyplomowych staje się absolwentem i uzyskuje świadectwo
+                    ukończenia studiów podyplomowych po zaliczeniu I-go oraz II-go semestru
+                    nauki.</li>
+                <li class="- topic/li ">Formą zaliczenia poszczególnych semestrów jest zdanie na ocenę pozytywną
+                    egzaminu po każdym semestrze lub egzaminów z poszczególnych przedmiotów, w
+                    zależności od kierunku studiów.</li>
+                <li class="- topic/li ">Słuchacze AFiB Vistula nie otrzymują indeksów. Dokument z oceną Słuchacza
+                    przekładany do Działu SP i teczki Słuchacza to protokół z egzaminu.</li>
+                <li class="- topic/li ">Po zaliczeniu wszystkich egzaminów przez Słuchacza, Dział SP w ciągu maksymalnie
+                    30 dni, drogą mailową, informuje o możliwości odbioru świadectwa ukończenia
+                    studiów podyplomowych, bezpośrednio na uczelni lub drogą pocztową (list
+                    polecony).</li>
+                <li class="- topic/li ">Wzór świadectwa ukończenia studiów podyplomowych znajduje się w rozdziale '<xref class="- topic/xref " href="#unique_7" type="topic"><?ditaot usertext?>Wzory dokumentów</xref>'. </li>
+            </ol>
+        </p>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_7" topicrefclass="- map/topicref " nd:nd-id="Wzory_potrzebnych_dokument_w" oid="Wzory_potrzebnych_dokument_w" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Wzory dokumentów</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_7_Connect_42_ol_u3y_dh2_mpb" nd:nd-id="ol_u3y_dh2_mpb">
+                <li class="- topic/li ">Kwestionariusz osobowy na studia podyplomowe <xref class="- topic/xref " format="pdf" href="Images/kwestionariusz.pdf"><?ditaot usertext?>kwestionariusz</xref></li>
+                <li class="- topic/li ">Wzór umowy dotyczącej płatności za studia podyplomowe <xref class="- topic/xref " format="pdf" href="Images/umowa%20o%20płatności.pdf"><?ditaot usertext?>umowa</xref></li>
+                <li class="- topic/li ">Wzór zaświadczenia o przyjęciu na studia/zakończeniu studiów <xref class="- topic/xref " format="pdf" href="Images/zaświadczenie%20o%20przyjęciu.pdf"><?ditaot usertext?>
+                        zaświadczenie o przyjęciu </xref><xref class="- topic/xref " format="pdf" href="Images/zaświadczenie%20o%20ukończeniu.pdf"><?ditaot usertext?>
+                        zaświadczenie o ukończeniu</xref>
+                </li>
+                <li class="- topic/li ">Przykładowy wzór dokumentu z Urzędu Pracy <xref class="- topic/xref " format="doc" href="Images/Wniosek%20o%20dofinansowanie%20studiów%20podyplomowych%20.doc"><?ditaot usertext?> wniosek o dofinansowanie</xref></li>
+                <li class="- topic/li ">Wzór świadectwa ukończenia studiów podyplomowych <xref class="- topic/xref " format="pdf" href="Images/świadectwo.pdf"><?ditaot usertext?>świadectwo</xref></li>
+            </ol>
+        </p>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_8" topicrefclass="- map/topicref " nd:nd-id="_7.Regulaminy_i_akty_prawne" oid="_7.Regulaminy_i_akty_prawne" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Regulaminy i akty prawne </ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p ">
+            <ol class="- topic/ol " id="unique_8_Connect_42_ol_av4_vh2_mpb" nd:nd-id="ol_av4_vh2_mpb">
+                <li class="- topic/li ">Regulamin Studiów Podyplomowych – znajduje się przy każdym kierunku studiów
+                    podyplomowych w zakładce ‘Nabór i opłaty’, pod numerem konta bankowego.<xref class="- topic/xref " format="pdf" href="Images/regulamin-studiow-podyplomowych-2013.pdf"><?ditaot usertext?>regulamin</xref></li>
+                <li class="- topic/li "><xref class="- topic/xref " format="html" href="https://www.vistula.edu.pl/o-nas/wazne-dokumenty" scope="external"><?ditaot usertext?> Ważne regulaminy i zarządzenia uczelni</xref></li>
+            </ol>
+        </p>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_9" topicrefclass="- map/topicref " nd:nd-id="_8.Kontakt" oid="_8.Kontakt" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Kontakt do Działu Studiów Podyplomowych AFiB Vistula</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p ">Dział Studiów Podyplomowych i Szkoleń</p>
+        <p class="- topic/p "> Akademii Finansów i Biznesu Vistula</p>
+        <p class="- topic/p ">tel. <xref class="- topic/xref " href="tel:+48%2022%20457%2023%2063" scope="external"><?ditaot usertext?>+48 22 457 23 63</xref>
+            lub <xref class="- topic/xref " href="tel:+48%2022%20457%2023%2029" scope="external"><?ditaot usertext?>+48 22 457 23
+            29</xref></p>
+        <p class="- topic/p "> e-mail: <xref class="- topic/xref " format="edu.pl.pl" href="mailto:studiapodyplomowe@vistula.edu.pl" scope="external"><?ditaot usertext?>studiapodyplomowe@vistula.edu.pl</xref></p>
+    </body>
+</topic><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_10" topicrefclass="- map/topicref " nd:nd-id="_10.Rekomendacje" oid="_10.Rekomendacje" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Rekomendacje</ph></title><prolog class="- topic/prolog "><author class="- topic/author ">DOROTA CAKAR</author><copyright class="- topic/copyright ">
+            <copyryear class="- topic/copyryear " year="2021"/>
+            <copyrholder class="- topic/copyrholder "/>
+        </copyright><critdates class="- topic/critdates ">
+            <created class="- topic/created " date="2021-05-02"/>
+        </critdates></prolog>
+    <body class="- topic/body ">
+        <p class="- topic/p ">Wypowiedzi absolwentów studiów podyplomowych z zakresu zarządzania, kierunek<b class="+ topic/ph hi-d/b ">"Polski i
+                międzynarodowy rynek sztuki".</b>.</p>
+        <p class="- topic/p "> </p>
+        <p class="- topic/p "><i class="+ topic/ph hi-d/i ">Dzięki studiom rozszerzyły mi się moje horyzonty zawodowe... Odważyłam się i
+                przeprowadziłam dwie wystawy kuratorskie w częstochowskiej Zachęcie. ... Szereg
+                rożnych propozycji zaczyna się ukazywać na mojej drodze zawodowej.</i></p>
+        <p class="- topic/p ">fragment listu Pani Elzbiety Łyżby-Karpowicz</p>
+        <p class="- topic/p "> </p>
+        <p class="- topic/p "><i class="+ topic/ph hi-d/i ">Fantastyczne studia podyplomowe, które gorąco polecam każdemu, kto w jakikolwiek
+                sposób uczestniczy w rynku sztuki. Staranny i wszechstronny dobór kompetentnych
+                wykładowców, którzy przede wszystkim są ludźmi z branży, zapewnia bezpośredni dostęp
+                do praktycznych informacji z każdej dziedziny – od prawa autorskiego, poprzez tak
+                trudne w sprzedaży nowe media – po kategorie zabytku, międzynarodowe targi sztuki
+                czy zawód Art Advisor. Choć czesne za studia nie należy do niskich, dzięki branżowym
+                kontaktom pozyskanym już po kilku tygodniach zajęć, pieniądze się zwróciły. Z
+                czystym sercem polecam!</i></p>
+        <p class="- topic/p ">Katarzyna Gębarowska</p>
+        <p class="- topic/p ">Kuratorka, właścicielka galerii fotografii FARBIARNIA, dyrektorka Międzynarodowego
+            Festiwalu Miłośników Fotografii Analogowej VINTAGE PHOTO FESTIVAL w Bydgoszczy.</p>
+        <p class="- topic/p "/>
+        <p class="- topic/p "><i class="+ topic/ph hi-d/i ">Wystkim są ludźmi z branży, zapewnia bezpośredni dostęp do praktycznych informacji z
+                każdej dziedziny – od prawa autorskiego, poprzez tak trudne w sprzedaży nowe media –
+                po kategorie zabytku, międzynarodowe targi sztuki czy zawód Art Advisor. Choć czesne
+                za studia nie należy do niskich, dzięki branżowym kontaktom pozyskanym już po kilku
+                tygodniach zajęć, pieniądze się zwróciły. Z czystym sercem polecam!</i></p>
+        <p class="- topic/p ">Katarzyna Gębarowska</p>
+        <p class="- topic/p ">Kuratorka, właścicielka galerii fotografii FARBIARNIA, dyrektorka Międzynarodowego
+            Festiwalu Miłośników Fotografii Analogowej VINTAGE PHOTO FESTIVAL w Bydgoszczy.</p>
+        <p class="- topic/p "> </p>
+        <p class="- topic/p "> </p>
+        <p class="- topic/p "> </p>
+    </body>
+</topic></map>
